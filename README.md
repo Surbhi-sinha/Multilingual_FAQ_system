@@ -13,8 +13,8 @@ Ensure you have the following installed:
 Clone the backend repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/faq-system-backend.git
-cd faq-system-backend
+[git clone https://github.com/your-username/faq-system-backend.git](https://github.com/Surbhi-sinha/Multilingual_FAQ_system.git)
+cd Multilingual_FAQ_system
 ```
 
 ### 3. **Install Dependencies**
